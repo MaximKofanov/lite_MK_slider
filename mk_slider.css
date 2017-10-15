@@ -1,0 +1,23 @@
+  .wrapperSlider{
+    width: 20%;
+    margin: auto;
+    white-space: nowrap;
+  } 
+  .wrapperSlider img{
+    width: 100%;
+    display: none;
+  }
+  .panelSlider{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  .panelSlider li{
+    height: 10px;
+    width: 5%;
+    border:1px solid;
+    border-radius: 10px;
+    margin: 5px;
+    display: inline-block;
+    cursor: pointer;
+  }
